@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df626e13-d024-4442-ab4e-cb05c0612db2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/mystore/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mystore/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystore/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mystore/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystore/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mystore/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystore/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/mystore/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mystore" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2bwX1tYb44EtdGS1o5ZYy0ssuoJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nourc/OneDrive/Bureau/projetspring/SOA/Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="projet" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df626e13-d024-4442-ab4e-cb05c0612db2" name="Changes" comment="" />
+      <created>1707126903625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707126903625</updated>
+      <workItem from="1707126904978" duration="327000" />
+      <workItem from="1707128935032" duration="1140000" />
+      <workItem from="1707136498677" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
